@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "lunar-mock",
+  "version": "${version}",
+  "name": "lunar-mock",
+  "description": "empty mod to mimic the class and method layouts of obfuscated lunar client",
+  "authors": ["uku"],
+  "environment": "*"
+}
